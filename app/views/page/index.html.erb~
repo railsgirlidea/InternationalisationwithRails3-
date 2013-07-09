@@ -1,0 +1,6 @@
+<h1>Example Webshop</h1>
+<p>Welcome to this webshop.</p>
+
+<p><b>I18n.locale:</b> 
+<%= I18n.locale %>
+</p>

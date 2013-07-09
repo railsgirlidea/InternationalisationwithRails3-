@@ -1,0 +1,21 @@
+# ruby encoding: utf-8
+
+de:
+  views:
+    show: Anzeigen
+    edit: Editieren
+    destroy: Löschen
+    are_you_sure: Sind Sie sicher?
+    back: Zurück
+    edit: Editieren
+    product:
+      index:
+        title: Liste aller Produkte
+        new_product: Neues Produkt
+      edit:
+        title: Produkt editieren
+      new:
+        title: Neues Produkt
+      flash_messages:
+        product_was_successfully_created: 'Das Produkt wurde erfolgreich angelegt.'
+        product_was_successfully_updated: 'Das Produkt wurde erfolgreich aktualisiert.'

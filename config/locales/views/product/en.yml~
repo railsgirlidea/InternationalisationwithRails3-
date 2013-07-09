@@ -1,0 +1,19 @@
+en:
+  views:
+    show: Show
+    edit: Edit
+    destroy: Delete
+    are_you_sure: Are you sure?
+    back: Back
+    edit: Edit
+    product:
+      index:
+        title: List of all products
+        new_product: New product
+      edit:
+        title: Edit Product
+      new:
+        title: New product
+      flash_messages:
+        product_was_successfully_created: 'Product was successfully created.'
+        product_was_successfully_updated: 'Product was successfully updated.'

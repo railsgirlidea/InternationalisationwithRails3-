@@ -1,0 +1,11 @@
+# ruby encoding: utf-8
+
+de:
+  activerecord:
+    models:
+      product: 'Produkt'
+    attributes:
+      product:
+        name: 'Name'
+        description: 'Beschreibung'
+        price: 'Preis'
